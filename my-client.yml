@@ -1,2 +1,4 @@
 server:
   port: 7010
+greeting:
+  value: Hello Mohamed from remote github
