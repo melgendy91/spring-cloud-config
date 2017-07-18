@@ -1,4 +1,4 @@
 server:
   port: 7010
 greeting:
-  value: Hello Mohamed RabbitMQ
+  value: Hello Mohamed from CloudBus
