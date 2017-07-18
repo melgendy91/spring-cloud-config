@@ -1,4 +1,4 @@
 server:
-  port: 7010
+  port: 9100
 greeting:
   value: Hello Mohamed from CloudBus
