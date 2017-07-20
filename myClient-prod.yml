@@ -1,4 +1,4 @@
 server:
   port: 6000
 greeting:
-  value: Production Hello
+  value: Remote  Production Hello
