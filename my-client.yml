@@ -1,4 +1,0 @@
-server:
-  port: 9100
-greeting:
-  value: Hello Mohamed from CloudBus
