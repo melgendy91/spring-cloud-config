@@ -1,7 +1,7 @@
 server:
   port: 5588
 greeting:
-  value: Default Hello
+  value: remote Default Hello
 
 spring:
   profiles:
