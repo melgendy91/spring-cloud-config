@@ -1,4 +1,8 @@
 server:
-  port: 6000
+  port: 5588
 greeting:
-  value: Remote Default Hello
+  value: Default Hello
+
+spring:
+  profiles:
+    active: dev
