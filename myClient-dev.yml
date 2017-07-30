@@ -1,4 +1,4 @@
 server:
   port: 5588
 greeting:
-  value: remotee Development Hello
+  value: remote Development Hello
