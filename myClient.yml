@@ -1,0 +1,4 @@
+server:
+  port: 5588
+greeting:
+  value: Default Hello
