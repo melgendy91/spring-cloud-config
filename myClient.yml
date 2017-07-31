@@ -1,8 +1,4 @@
 server:
   port: 5588
 greeting:
-  value: remote Default Hello
-
-spring:
-  profiles:
-    active: prod
+  value: Default Hello
